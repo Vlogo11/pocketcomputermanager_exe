@@ -3,7 +3,7 @@
 ## Comparing to Microsoft Windows
 ### Microsoft Windows' File Explorer + Task Manager
 - Used storage ∼ 10MB + DLL Files
-- Used Memory  ∼ 125MB (Up to 250MB On search)
+- Used Memory  ∼ 125MB (Up to 260MB On search)
 - Searching Time ∼ 20 Minutes (On a 500GB SSD, searching for the word "qt" on the whole drive)
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
