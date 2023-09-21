@@ -10,10 +10,10 @@
 - Searching Time ∼ 19 Minutes (On a 500GB SSD, searching for the word "qt" on the whole drive)
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
-- Used storage - 121 KB (Only the .exe File) - **77.85 Times Less**
-- Used Memory  ∼ 20 MB (Up to 46MB On search) - **5.65 to 6.25 Times Less**
+- Used storage - 123 KB (Only the .exe File) - **76.6 Times Less**
+- Used Memory  ∼ 20 MB (Up to 44MB On search) - **5.9 to 6.25 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for the word "qt" on the whole drive) - **47.5 Times Faster**
-- Found Files and Folders: 24246 - **1,065 Times More**
+- Found Files and Folders: 24246 - **1.065 Times More**
 ## System Requirements
 - Microsoft Windows with a IA-32, x86-64 or ARMv7 Architectured Processor (Mostly Intel or Ryzen)
 - Minimum 50MB Free Memory
