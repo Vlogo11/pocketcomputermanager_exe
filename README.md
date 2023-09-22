@@ -3,7 +3,7 @@
 - Everything in a clean, user-friendly, portable and pocket program
 - Low hardware usage, but Lightning-fast searching time
 - Perfectly enough information for basic use
-## Compared to Windows - A solid 15.500 times difference (By ratio, with an average rate of on search and simple use values)
+## Compared to Windows - A solid 35.000 times difference (By ratio, with an average rate of on-search and simple use values)
 ### Windows File Explorer + Task Manager
 - Used storage ∼ 9.2 MB (Only the .exe files)
 - Used Memory  ∼ 125 MB (Up to 260MB on search)
@@ -13,7 +13,7 @@
 ### Pocket Computer Manager
 - Used storage - 123 KB (Only the .exe File) - **76.6 Times Less**
 - Used Memory  ∼ 20 MB (Up to 45MB on search) - **5.9 to 6.25 Times Less**
-- Processor Usage ∼ 0% (Up to 20% on search) - **Up to 5 Times Less**
+- Processor Usage ∼ 0% (Up to 20% on search) - **Up to 1.5 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for the word "qt" on the whole drive) - **47.5 Times Faster**
 - Found Files and Folders: 24246 - **1.065 Times More**
 ## System Requirements
