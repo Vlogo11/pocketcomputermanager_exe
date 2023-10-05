@@ -21,5 +21,8 @@
 - Minimum 50MB Free Memory
 - Minimum 30MB Free Space
 ## Version History - Current version: 0.1 - 2023.09.01
+#### Version: 0.2 - 2023.10.05
+  - Pie chart instead of progressbar
+  - Bigger Interface, better visibility
 #### Version: 0.1 - 2023.09.01
   - First version, basic implementations
