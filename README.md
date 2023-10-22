@@ -24,5 +24,6 @@
 #### Version: 0.2 - 2023.10.05
   - Pie chart instead of progressbar
   - Bigger Interface, better visibility
+  - CPU Load
 #### Version: 0.1 - 2023.09.01
   - First version, basic implementations
