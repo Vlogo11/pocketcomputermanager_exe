@@ -3,7 +3,7 @@
 - Everything in a clean, user-friendly, portable and pocket program
 - The program gives you almost all the features that you can find in those separate programs
   - Windows File Explorer
-  - Windows Task Maneger
+  - Windows Task Manager
   - Core Temp
   - Hard Disk Sentinel
   - Open Hardware Monitor
