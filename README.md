@@ -1,6 +1,12 @@
 # Pocket Computer Manager
 ## Main Advantages - A software, that makes your life easier
 - Everything in a clean, user-friendly, portable and pocket program
+- The program gives you the features that you can find in those separate programs
+  - Windows File Explorer
+  - Windows Task Maneger
+  - Core Temp
+  - Hard Disk Sentinel
+  - Open Hardware Monitor
 - Low hardware usage, but Lightning-fast searching time
 - Perfectly enough information for basic use
 ## Compared to Windows - A solid 35.500 times difference (By ratio, with an average rate of on-search and simple use values)
