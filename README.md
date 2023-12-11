@@ -25,7 +25,7 @@
 - Microsoft Windows with a IA-32, x86-64 or ARMv7 Architectured Processor (Mostly Intel or Ryzen)
 - Recommended 50MB Free Memory
 - Recommended 30MB Free Space
-## Version History - Current version: 0.1 - 2023.09.01
+## Version History - Current version: 0.2 - 2023.11.01
 #### Version: 0.2 - 2023.10.05, Beta - 2023.11.01, Stable
   - Pie chart instead of a progress bar
   - Bigger Interface, better visibility
