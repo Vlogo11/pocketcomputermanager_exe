@@ -31,6 +31,7 @@
 - More accurate Task Manager with auto-update
 - Even bigger interface
 - Defrag Disk button (fix!)
+- Code optimalizations
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - Pie chart instead of a progress bar
 - Bigger Interface, better visibility
