@@ -25,14 +25,13 @@
 - Microsoft Windows with a IA-32, x86-64 or ARMv7 Architectured Processor (Mostly Intel or Ryzen)
 - Recommended 50MB Free Memory
 - Recommended 30MB Free Space
-## Version History - Current version: 0.3 - 2024.01.22
-#### Version: 0.3 - 2024.01.22 (Beta)
+## Version History - Current version: 0.3 - 2024.01.24
+#### Version: 0.3 - 2024.01.24 (Beta)
 - Fixed the values of PieChart
 - More accurate Task Manager with auto-update
 - Even bigger interface
 - Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
-- Right click interactions (Fix!)
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - Pie chart instead of a progress bar
 - Bigger Interface, better visibility
