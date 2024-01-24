@@ -8,7 +8,7 @@
   - Hard Disk Sentinel
   - Open Hardware Monitor
 - Low hardware usage, but Lightning-fast searching time
-## Compared to Windows - A solid ∼ 33.150 times difference (By ratio)
+## Compared to Windows - A solid (Up to) ∼ 38.000 times difference (By ratio)
 ### Windows File Explorer + Task Manager
 - Used storage ∼ 9.2 MB (Only the .exe files)
 - Used Memory  ∼ 125 MB (Up to 260MB on search)
@@ -16,9 +16,9 @@
 - Searching Time ∼ 19 Minutes (On a 500GB SSD, searching for "qt")
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
-- Used storage - 120 KB (Only the .exe File) - **78.5 Times Less**
+- Used storage - 118 KB (Only the .exe File) - **79.8 Times Less**
 - Used Memory  ∼ 20 MB (Up to 46MB on search) - **5.65 to 6.25 Times Less**
-- Processor Usage ∼ 0% (Up to ∼ 30% on search) - **Up to 1.4 Times Less**
+- Processor Usage ∼ 0% (Up to ∼ 26.6% on search) - **Up to 1.5 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for "qt") - **47.5 Times Faster**
 - Found Files and Folders: 24246 - **1.065 Times More**
 ## System Requirements
