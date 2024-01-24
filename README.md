@@ -32,6 +32,7 @@
 - Even bigger interface
 - Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
+- Needs to add admin privileged file's edit!
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - Pie chart instead of a progress bar
 - Bigger Interface, better visibility
