@@ -8,7 +8,7 @@
   - Hard Disk Sentinel
   - Open Hardware Monitor
 - Low hardware usage, but Lightning-fast searching time
-## Compared to Windows - A solid (Up to) ∼ 38.000 times difference (By ratio)
+## Compared to Windows
 ### Windows File Explorer + Task Manager
 - Used storage ∼ 9.2 MB (Only the .exe files)
 - Used Memory  ∼ 125 MB (Up to 260MB on search)
