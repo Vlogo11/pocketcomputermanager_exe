@@ -27,8 +27,8 @@
 - Recommended 30MB Free Space
 ## Version History - Current version: 0.3 - 2024.01.24
 #### Version: 0.3 - 2024.01.24 (Beta)
-<img src="[https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif](https://cdn.discordapp.com/attachments/1206203169206439946/1206203169495842856/disks.png?ex=65db273d&is=65c8b23d&hm=995b98cd37ff7d9e190d897f71829286961442030b059d41ca7ac6ad0e65be0b&)" width="100" height="100"/></img>
-<img src="https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif" width="100" height="100"/></img>
+<img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169495842856/disks.png?ex=65db273d&is=65c8b23d&hm=995b98cd37ff7d9e190d897f71829286961442030b059d41ca7ac6ad0e65be0b&" width="135" height="100"/></img>
+<img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169772929064/usage.png?ex=65db273d&is=65c8b23d&hm=f2193d831c4f27cbb6cdd19f72b81b1ad24b372b778895d675e2b801f5b93819&" width="135" height="100"/></img>
 - Fixed the values of PieChart
 - More accurate Task Manager with auto-update
 - Even bigger interface
@@ -36,8 +36,8 @@
 - Code optimizations and shortening → Smaller and faster executable
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
-- Pie chart instead of a progress bar
-- Bigger Interface, better visibility
+- PieChart instead of a ProgressBar
+- Bigger Interface → Better visibility
 - CPU Load in %
 #### Version: 0.1 - 2023.09.01
 - First version, basic implementations
