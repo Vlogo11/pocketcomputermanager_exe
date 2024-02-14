@@ -29,12 +29,16 @@
 #### Version: 0.3 - 2024.01.24 (Beta)
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169495842856/disks.png?ex=65db273d&is=65c8b23d&hm=995b98cd37ff7d9e190d897f71829286961442030b059d41ca7ac6ad0e65be0b&" width="135" height="100"/></img>
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169772929064/usage.png?ex=65db273d&is=65c8b23d&hm=f2193d831c4f27cbb6cdd19f72b81b1ad24b372b778895d675e2b801f5b93819&" width="135" height="100"/></img>
+- Working shortcuts
 - Fixed the values of PieChart
-- More accurate Task Manager with auto-update
+- More accurate Task Manager with auto-update (Fix is still needed
 - Even bigger interface
 - Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
+- **Currently working on**
+  - CPU Load Graph
+  - Saving the locations of shortcuts
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of a ProgressBar
 - Bigger Interface → Better visibility
