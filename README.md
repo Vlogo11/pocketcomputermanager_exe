@@ -31,7 +31,7 @@
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169772929064/usage.png?ex=65db273d&is=65c8b23d&hm=f2193d831c4f27cbb6cdd19f72b81b1ad24b372b778895d675e2b801f5b93819&" width="135" height="100"/></img>
 - Working shortcuts
 - Fixed the values of PieChart
-- More accurate Task Manager with auto-update (Fix is still needed
+- More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
 - Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
