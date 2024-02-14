@@ -1,8 +1,7 @@
 # Pocket Computer Manager
 ## Main Advantages - A Software, That Makes Your life Faster
 - Everything in a clean, user-friendly, portable and pocket program
-- The program gives you almost all the features that you can find in those separate programs
-- (Not everything is implemented, this is just the plan)
+- The program gives you almost all the features that you can find in those separate programs (Not everything is implemented, that's just a plan)
   - Windows File Explorer
   - Windows Task Manager
   - Core Temp
