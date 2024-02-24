@@ -41,7 +41,7 @@
   - CPU Load Graph
   - Loading the locations of shortcuts
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
-- PieChart instead of a ProgressBar
+- PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
 - CPU Load in %
 #### Version: 0.1 - 2023.09.01
