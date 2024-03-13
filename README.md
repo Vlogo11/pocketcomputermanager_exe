@@ -1,3 +1,4 @@
+[![Github All Releases](https://img.shields.io/github/downloads/Vlogo11/pocketcomputermanager_exe/total.svg)]()
 # Pocket Computer Manager
 ## Main Advantages - A Software, That Makes Your Life Faster
 - Everything you need, in a clean, user-friendly and portable program
