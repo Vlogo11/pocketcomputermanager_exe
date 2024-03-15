@@ -42,6 +42,9 @@
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
 - **Currently working on**
   - Loading the locations of shortcuts
+- **Done in Python**
+  - GPU Tempereture, Usage, VRAM Usage
+  - CPU Usage   
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
