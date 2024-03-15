@@ -2,7 +2,7 @@
 <a href="https://www.buymeacoffee.com/vlogo11" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100"></a>
 # Pocket Computer Manager
 ## Main Advantages - A Software, That Makes Your Life Faster
-- Everything you need, in a clean, user-friendly and portable program
+- Everything you need, in a clean, user-friendly, and portable program
 - It gives you almost all the features that you can find in those separate programs (Not everything is implemented, that's just a plan)
   - Windows File Explorer
   - Windows Task Manager
@@ -40,11 +40,13 @@
 - Code optimizations and shortening → Smaller and faster executable
 - CPU Load Graph
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
-- **Currently working on**
-  - Loading the locations of shortcuts
 - **Done in Python**
   - GPU Tempereture, Usage, VRAM Usage
-  - CPU Usage   
+  - CPU Usage  
+- **Currently working on**
+  - Loading the locations of shortcuts
+  - Getting CPU Temperature
+  - Reading Python values in C++
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
