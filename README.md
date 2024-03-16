@@ -1,5 +1,6 @@
 [![Github All Releases](https://img.shields.io/github/downloads/Vlogo11/pocketcomputermanager_exe/total.svg)]()
 <a href="https://www.buymeacoffee.com/vlogo11" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="100"></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=ARXCZKLT5SWXN">PayPal</a>
 # Pocket Computer Manager
 ## Main Advantages - A Software, That Makes Your Life Faster
 - Everything you need, in a clean, user-friendly, and portable program
