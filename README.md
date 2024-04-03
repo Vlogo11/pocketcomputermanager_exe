@@ -48,6 +48,7 @@
   - Loading the locations of shortcuts
   - Getting CPU Temperature
   - Reading Python values in C++ and adding it to the Chart
+  - Getting the values of Integrated Graphics
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
