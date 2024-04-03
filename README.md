@@ -32,7 +32,7 @@
 #### Version: 0.3 - 2024.01.24 (Beta)
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169495842856/disks.png?ex=6600113d&is=65ed9c3d&hm=d2ac8c6f0dc9c89cc3eca8be334cba1b3e1a9ec3ce7293778b54f67d569702bb&" width="135" height="100"/></img>
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169772929064/usage.png?ex=65db273d&is=65c8b23d&hm=f2193d831c4f27cbb6cdd19f72b81b1ad24b372b778895d675e2b801f5b93819&" width="135" height="100"/></img>
-- Working shortcuts with Save and Load system
+- Working and editable shortcuts with Save and Load system
 - Fixed the values of PieChart
 - Fixed back arrow bug, after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
