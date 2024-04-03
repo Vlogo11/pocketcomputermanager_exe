@@ -19,7 +19,7 @@
 - Searching Time ∼ 19 Minutes (On a 500GB SSD, searching for "qt")
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
-- Used storage - 116 KB (Only the .exe File) - **81,2 Times Less**
+- Used storage - 116 KB (Only the .exe File) - **81.2 Times Less**
 - Used Memory  ∼ 20 MB (Up to 46MB on search) - **5.65 to 6.25 Times Less**
 - Processor Usage ∼ 0% (Up to ∼ 26.6% on search) - **Up to 1.5 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for "qt") - **47.5 Times Faster**
