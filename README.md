@@ -45,7 +45,6 @@
   - GPU Tempereture, Usage, VRAM Usage
   - CPU Usage  
 - **Currently working on**
-  - Loading the locations of shortcuts
   - Getting CPU Temperature
   - Reading Python values in C++ and adding it to the Chart
   - Getting the values of Integrated Graphics
