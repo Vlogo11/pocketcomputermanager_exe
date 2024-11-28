@@ -19,7 +19,7 @@
 - Searching Time ∼ 19 Minutes (On a 500GB SSD, searching for "qt")
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
-- Used storage - 117 KB (Only the .exe File) - **80.5 Times Less**
+- Used storage - 116 KB (Only the .exe File) - **81.2 Times Less**
 - Used Memory  ∼ 20 MB (Up to 46MB on search) - **5.65 to 6.25 Times Less**
 - Processor Usage ∼ 0% (Up to ∼ 26.6% on search) - **Up to 1.5 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for "qt") - **47.5 Times Faster**
@@ -37,12 +37,16 @@
 - Fixed back arrow bug, after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
+- Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
 - CPU Load Graph
-- GPU Tempereture, Usage, VRAM Usage
+- Needs to add admin privileged file's edit! (Enable Admin-mode button)
 - **Done in Python**
+  - GPU Tempereture, Usage, VRAM Usage
   - CPU Usage  
 - **Currently working on**
+  - Loading the locations of shortcuts
+  - Getting CPU Temperature
   - Reading Python values in C++ and adding it to the Chart
   - Getting the values of Integrated Graphics
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
