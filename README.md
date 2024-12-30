@@ -4,12 +4,12 @@
 # Pocket Computer Manager
 ## Main Advantages - A Software, That Makes Your Life Faster
 - Everything you need, in a clean, user-friendly, and portable program
-- It (will) give(s) you almost all the features of those programs
-  - Windows File Explorer
-  - Windows Task Manager
+- It will give you almost all the features of those programs
+  - Windows File Explorer ~ ✓
+  - Windows Task Manager ~ ✓
   - Core Temp
   - Hard Disk Sentinel
-  - Open Hardware Monitor
+  - Open Hardware Monitor ~ ✓
 - Low hardware usage, but Lightning-fast searching time
 ## Compared to Windows (On a 4-Threaded CPU)
 ### Windows File Explorer + Task Manager
