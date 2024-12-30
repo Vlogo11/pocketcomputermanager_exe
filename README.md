@@ -37,17 +37,12 @@
 - Fixed back arrow bug, after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
-- Defrag Disk button (Not working yet!)
 - Code optimizations and shortening → Smaller and faster executable
 - CPU Load Graph
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
-- **Done in Python**
-  - GPU Tempereture, Usage, VRAM Usage
-  - CPU Usage  
+- Improved searching time and memory-usage
 - **Currently working on**
-  - Loading the locations of shortcuts
   - Getting CPU Temperature
-  - Reading Python values in C++ and adding it to the Chart
   - Getting the values of Integrated Graphics
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
