@@ -42,7 +42,7 @@
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
 - Improved searching time and memory usage
 - GPU Usage, temperature, memory usage values (NVIDIA only)
-- Search results are auto-updating
+- Search results are auto-updating and the keyword is highlighted
 - **Currently working on**
   - Getting CPU Temperature
   - Getting the usage of Integrated Graphics
