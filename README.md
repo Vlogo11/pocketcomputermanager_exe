@@ -34,16 +34,17 @@
 <img src="https://cdn.discordapp.com/attachments/1206203169206439946/1206203169772929064/usage.png?ex=65db273d&is=65c8b23d&hm=f2193d831c4f27cbb6cdd19f72b81b1ad24b372b778895d675e2b801f5b93819&" width="135" height="100"/></img>
 - Working and editable shortcuts with Save and Load system
 - Fixed the values of PieChart
-- Fixed back arrow bug, after searching
+- Fixed back arrow bug after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
 - Code optimizations and shortening → Smaller and faster executable
-- CPU Load Graph
+- CPU Load and GPU usage Graph
 - Needs to add admin privileged file's edit! (Enable Admin-mode button)
-- Improved searching time and memory-usage
+- Improved searching time and memory usage
+- GPU Usage, temperature, memory usage values (NVIDIA only)
 - **Currently working on**
   - Getting CPU Temperature
-  - Getting the values of Integrated Graphics
+  - Getting the usage of Integrated Graphics
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
