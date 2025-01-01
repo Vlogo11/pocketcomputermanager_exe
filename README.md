@@ -43,6 +43,7 @@
 - Improved searching time and memory usage
 - GPU Usage, temperature, memory usage values (NVIDIA only)
 - Search results are auto-updating and the keyword is highlighted
+- Fixed crashing if a result is clicked
 - **Currently working on**
   - Getting CPU Temperature
   - Getting the usage of Integrated Graphics
