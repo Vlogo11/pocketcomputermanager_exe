@@ -40,9 +40,9 @@
 - Code optimizations and shortening → Faster executable
 - CPU Load Graph
 - Improved searching time and memory usage
-- GPU Usage, temperature, memory usage values (NVIDIA only)
+- GPU Usage, temperature, GPU memory usage values (NVIDIA only)
 - Search results are auto-updating and the keyword is highlighted
-- Fixed crashing if a result is clicked
+- Fixed the crashing when a result is clicked
 - **Currently working on**
   - Administrator mode
   - Getting CPU Temperature
