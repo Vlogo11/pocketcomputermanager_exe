@@ -1,5 +1,5 @@
-# Pocket Computer Manager
-## Main Advantages - A Software, That Makes Your Life Faster
+# Pocket Computer Manager - A Software, That Makes Your Life Faster
+## Main Advantages
 - Everything you need, in a clean, user-friendly, and portable program
 - It will give you almost all the features of these programs:
   - Windows File Explorer
