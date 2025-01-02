@@ -9,7 +9,7 @@
   - Open Hardware Monitor
 - Low hardware usage, but Lightning-fast searching time
 ## Compared to Windows (On a 4-Threaded CPU)
-### Windows File Explorer + Task Manager
+### Windows' File Explorer + Task Manager
 - Executable's size ∼ 9.2 MB
 - Used Memory  ∼ 125 MB (Up to 260MB on search)
 - Processor Usage ∼ 0% (Up to ∼ 42% on search)
