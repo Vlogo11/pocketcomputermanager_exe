@@ -25,8 +25,8 @@
 - Microsoft Windows with an IA-32, x86-64 or ARMv7 Architectured Processor (Mostly Intel or Ryzen)
 - Recommended 50MB Free Memory
 - Recommended 30MB Free Space
-## Version History - Current version: 0.3 - 2024.01.24
-#### Version: 0.3 - 2024.01.24 (Beta)
+## Version History - Current version: 0.3 (2025.01.03)
+#### Version: 0.3 - 2024.01.24 (Beta) - 2025.01.03 (Stable)
 <img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="290" height="200"/></img>
 <img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="290" height="200"/></img>
 - Customizable shortcuts with a Save and Load system
