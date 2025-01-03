@@ -45,7 +45,7 @@
 - Fixed back arrow bug after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
-- Fixed the crashing when a result is clicked
+- Fixed the crashing when a searchResult is clicked
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
