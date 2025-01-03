@@ -1,4 +1,6 @@
 # Pocket Computer Manager - A Software, That Makes Your Life Faster
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="360" height="250"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="360" height="250"/></img>
 ## Main Advantages
 - Everything you need, in a clean, user-friendly, and portable program
 - It will give you almost all the features of these programs:
@@ -26,9 +28,12 @@
 - Recommended 50MB Free Memory
 - Recommended 30MB Free Space
 ## Version History - Current version: 0.3 (2025.01.03)
+#### **Currently working on**
+- Administrator mode
+- Getting CPU Temperature
+- GPU Usage Graph
+- Getting the usage of Integrated Graphics
 #### Version: 0.3 - 2024.01.24 (Beta) - 2025.01.03 (Stable)
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="290" height="200"/></img>
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="290" height="200"/></img>
 - Customizable shortcuts with a Save and Load system
 - Fixed the values of PieChart
 - Fixed back arrow bug after searching
@@ -40,11 +45,6 @@
 - GPU Usage, temperature, GPU memory usage values (NVIDIA only)
 - Search results are auto-updating and the keyword is highlighted
 - Fixed the crashing when a result is clicked
-- **Currently working on**
-  - Administrator mode
-  - Getting CPU Temperature
-  - GPU Usage Graph
-  - Getting the usage of Integrated Graphics
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
