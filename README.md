@@ -27,8 +27,8 @@
 - Recommended 30MB Free Space
 ## Version History - Current version: 0.3 - 2024.01.24
 #### Version: 0.3 - 2024.01.24 (Beta)
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="215" height="150"/></img>
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="215" height="150"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="290" height="200"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="290" height="200"/></img>
 - Customizable shortcuts with a Save and Load system
 - Fixed the values of PieChart
 - Fixed back arrow bug after searching
