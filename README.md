@@ -34,16 +34,17 @@
 - GPU Usage Graph
 - Getting the usage of Integrated Graphics
 #### Version: 0.3 - 2024.01.24 (Beta) - 2025.01.03 (Stable)
-- Customizable shortcuts with a Save and Load system
-- Fixed the values of PieChart
-- Fixed back arrow bug after searching
-- More accurate Task Manager with auto-update (Fix is still needed)
-- Even bigger interface
 - Code optimizations and shortening → Faster executable
 - CPU Load Graph
 - Improved searching time and memory usage
 - GPU Usage, temperature, GPU memory usage values (NVIDIA only)
 - Search results are auto-updating and the keyword is highlighted
+- Customizable shortcuts with a Save and Load system
+- Memory information (Frequency, memory slots, memory's size in each slot)
+- Fixed the values of PieChart
+- Fixed back arrow bug after searching
+- More accurate Task Manager with auto-update (Fix is still needed)
+- Even bigger interface
 - Fixed the crashing when a result is clicked
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
