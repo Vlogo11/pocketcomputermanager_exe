@@ -19,7 +19,7 @@
 - Searching Time ∼ 19 Minutes (On a 500GB SSD, searching for "qt")
 - Found Files and Folders: 22756
 ### Pocket Computer Manager
-- Executable's size - 128 KB ~ **74 Times Less**
+- Executable's size - 126 KB ~ **75 Times Less**
 - Used Memory  ∼ 20 MB (Up to 46MB on search) ~ **6 Times Less**
 - Processor Usage ∼ 0% (Up to ∼ 26.6% on search) - **Up to 1.5 Times Less**
 - Searching Time - Down to 24 Seconds (On a 500GB SSD, searching for "qt") - **47.5 Times Faster**
@@ -34,6 +34,10 @@
 - Getting CPU Temperature
 - GPU Usage Graph
 - Getting the usage of Integrated Graphics
+#### Version: 0.3.1 - 2025.01.07 (Beta)
+- Locations are shown under the found files that contain a keyword in a specified directory
+- FileIcons next to the results
+- Code optimizations, little UI change
 #### Version: 0.3 - 2024.01.24 (Beta) - 2025.01.03 (Stable)
 - Code optimizations and shortening → Faster executable
 - CPU Load Graph
@@ -46,7 +50,7 @@
 - Fixed back arrow bug after searching
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
-- Fixed the crashing when a searchResult is clicked
+- Fixed the crashing when a search result is clicked
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
