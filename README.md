@@ -51,6 +51,7 @@
 - More accurate Task Manager with auto-update (Fix is still needed)
 - Even bigger interface
 - Fixed the crashing when a search result is clicked
+- Keyword is bolded in the results
 #### Version: 0.2 - 2023.10.05 (Beta) - 2023.11.01 (Stable)
 - PieChart instead of ProgressBar
 - Bigger Interface → Better visibility
