@@ -1,6 +1,7 @@
 # Pocket Computer Manager - A Software, That Makes Your Life Faster
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="360" height="250"/></img>
-<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="360" height="250"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="285" height="200"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="285" height="200"/></img>
+<img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/3.png" width="285" height="200"/></img>
 ## Main Advantages
 - Everything you need, in a clean, user-friendly, and portable program
 - It will give you almost all the features of these programs:
