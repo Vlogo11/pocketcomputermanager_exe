@@ -28,7 +28,7 @@
 - Microsoft Windows with an IA-32, x86-64 or ARMv7 Architectured Processor (Mostly Intel or Ryzen)
 - Recommended 50MB Free Memory
 - Recommended 30MB Free Space
-## Version History - Current version: 0.3 (2025.01.03)
+## Version History - Current version: 0.3.1 (2025.01.07)
 #### **Currently working on**
 - Administrator mode
 - Getting CPU Temperature
