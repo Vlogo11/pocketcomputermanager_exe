@@ -1,4 +1,4 @@
-# Pocket Computer Manager - A Software, That Makes Your Life Faster
+# Pocket Computer Manager - A Software, to Make Your Life Faster
 <img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/1.png" width="33%"/></img>
 <img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/2.png" width="33%"/></img>
 <img src="https://raw.githubusercontent.com/Vlogo11/pocketcomputermanager_exe/refs/heads/main/Example_images/3.png" width="33%"/></img>
